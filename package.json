@@ -1,0 +1,18 @@
+{
+  "name": "npm-demo",
+  "version": "1.0.0",
+  "description": "learning node",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "ahtisham",
+  "license": "ISC",
+  "dependencies": {
+    "mongoose": "^5.10.13",
+    "underscore": "^1.11.0"
+  },
+  "devDependencies": {
+    "jshint": "^2.12.0"
+  }
+}
